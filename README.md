@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Cristian Aldea's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreatmarkus)](https://github.com/anuraghazra/github-readme-stats)
+[![Cristian Aldea's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-aldea)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
